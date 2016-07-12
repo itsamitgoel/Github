@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Module3</string>
+    <string name="number_1">number 1</string>
+    <string name="number_2">number 2</string>
+    <string name="multiply">*</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="divide">/</string>
+    <string name="result">=</string>
+    <string name="close">close</string>
+
+
+</resources>
