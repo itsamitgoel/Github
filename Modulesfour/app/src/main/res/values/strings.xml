@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modulesfour</string>
+    <string name="close">Close</string>
+    <string name="add_name">Add Name</string>
+    <string name="enter_a_name">enter a name</string>
+    <string name="add">Add</string>
+</resources>
